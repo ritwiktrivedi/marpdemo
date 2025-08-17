@@ -41,6 +41,7 @@ With Marp directives and CSS overrides, you can:
 ---
 
 <!-- background image slide -->
+<!-- _backgroundColor: #123456 -->
 ![bg](https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80)
 
 # Visual Impact
