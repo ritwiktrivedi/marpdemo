@@ -26,6 +26,14 @@ $$2+2=4$$
   - PowerPoint
 - Enables **custom themes** and styling
 
+More latex
+Inline math: $E = mc^2$
+
+Block math:
+
+$$
+\frac{d}{dx}e^x = e^x
+$$
 ---
 
 <!-- _class: default -->
