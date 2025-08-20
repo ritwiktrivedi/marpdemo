@@ -31,9 +31,7 @@ Inline math: $E = mc^2$
 
 Block math:
 
-$$
-\frac{d}{dx}e^x = e^x
-$$
+$$\frac{d}{dx}e^x = e^x$$
 ---
 
 <!-- _class: default -->
