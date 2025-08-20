@@ -16,6 +16,8 @@ size: 16:9
 
 # Why Marp?
 
+$$2+2=4$$
+
 - Write presentations in **Markdown**
 - Easy to maintain in **version control (Git)**
 - Convert to:
